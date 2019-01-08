@@ -1,2 +1,8 @@
-# DLBooks
-Deep Learning 资料
+# DeepLearning 资料汇总
+😄
+## 书籍
+- [ ] 动手机器学习
+- [ ] 机器学习实战
+- [ ] 统计学习方法
+- [ ] TensorFlow 实战Google深度学习框架
+- [ ] 机器学习教程个人笔记-斯坦福大学2014
